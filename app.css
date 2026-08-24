@@ -8,7 +8,7 @@
 body {
     min-height: 100vh;
     background-color: #fff;
-    font-family: "Big Shoulders Inline", sans-serif;
+    font-family: "Big Shoulders Inline", sans-serif !important;
     color: #000;
     font-style: normal;
 }
